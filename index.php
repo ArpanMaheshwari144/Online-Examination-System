@@ -62,11 +62,13 @@
     <div class="header">
         <div class="row">
             <div class="col-lg-6">
-                <span class="logo">Test Your Skill</span></div>
+                <span class="logo">Test Your Skill</span>
+            </div>
             <div class="col-md-2 col-md-offset-4">
                 <a href="#" class="pull-right btn sub1" data-toggle="modal" data-target="#myModal"><span
                         class="glyphicon glyphicon-log-in" aria-hidden="true"></span>&nbsp;<span
-                        class="title1"><b>Signin</b></span></a></div>
+                        class="title1"><b>Signin</b></span></a>
+            </div>
             <!--sign in modal start-->
             <div class="modal fade" id="myModal">
                 <div class="modal-dialog">
@@ -224,12 +226,14 @@
     <!--Footer start-->
     <div class="row footer">
         <div class="col-md-4 box">
-            <a href="#" data-toggle="modal" data-target="#login">Admin Login</a></div>
+            <a href="#" data-toggle="modal" data-target="#login">Admin Login</a>
+        </div>
         <div class="col-md-4 box">
             <a href="#" data-toggle="modal" data-target="#developers">Developer</a>
         </div>
         <div class="col-md-4 box">
-            <a href="feedback.php" target="_blank">Feedback</a></div>
+            <a href="feedback.php" target="_blank">Feedback</a>
+        </div>
     </div>
     <!-- Modal For Developers-->
     <div class="modal fade title1" id="developers">
@@ -244,20 +248,20 @@
 
                 <div class="modal-body">
                     <p>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <img src="image/Developer.jpg" width=100 height=100 alt="Arpan" class="img-rounded">
-                            </div>
-                            <div class="col-md-5">
-                                <a href="https://github.com/ArpanMaheshwari144" target="_blank"
-                                    style="color:#202020; font-family:'typo' ; font-size:18px"
-                                    title="Find on Facebook">Arpan Maheshwari</a>
-                                <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">
-                                    +917991377996</h4>
-                                <h4 style="font-family:'typo' ">ArpanMaheshwari144@gmail.com</h4>
-                                <h4 style="font-family:'typo' ">B.B.D.N.I.I.T,Lucknow</h4>
-                            </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="image/Developer.jpg" width=100 height=100 alt="Arpan" class="img-rounded">
                         </div>
+                        <div class="col-md-5">
+                            <a href="https://github.com/ArpanMaheshwari144" target="_blank"
+                                style="color:#202020; font-family:'typo' ; font-size:18px"
+                                title="Find on Facebook">Arpan Maheshwari</a>
+                            <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">
+                                +917991377996</h4>
+                            <h4 style="font-family:'typo' ">maheshwariarpan828@gmail.com</h4>
+                            <h4 style="font-family:'typo' ">B.B.D.N.I.I.T,Lucknow</h4>
+                        </div>
+                    </div>
                     </p>
                 </div>
 
